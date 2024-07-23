@@ -28,7 +28,8 @@
 	month = {},
 	numpages = {},
 	publisher = {},
-	eid = {}
+	eid = {},
+	eprint = {}
 }
 
 @book{,
