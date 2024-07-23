@@ -1,0 +1,108 @@
+
+@article{,
+	author = {Author, B.C. and Coauthor, D.E.},
+	title = {},
+	journal = {},
+	year = {},
+	volume = {},
+	number = {},
+	pages = {},
+	doi = {},
+	url = {}
+}
+
+@article{,
+	author = {Author, B.C. and Coauthor, D.E.},
+	title = {},
+	journal = {},
+	year = {},
+	volume = {},
+	number = {},
+	pages = {},
+	doi = {},
+	url = {},
+	note = {},
+	keywords = {},
+	abstract = {},
+	issn = {},
+	month = {},
+	numpages = {},
+	publisher = {},
+	eid = {}
+}
+
+@book{,
+	title={},
+	author={},
+	year={},
+	publisher={},
+	address={},
+	pages={},
+	isbn={},
+	note={}
+}
+
+@book{,
+	title={},
+	author={},
+	year={},
+	edition={},
+	series = {},
+	publisher={},
+	address = {},
+	pages = {},
+	isbn={},
+	lccn={},
+	url={},
+	note = {},
+	volume = {}
+}
+
+@InProceedings{,
+	author={},
+	editor={},
+	title={},
+	booktitle={},
+	year={},
+	publisher={},
+	address={},
+	pages={},
+	isbn={},
+	doi={},
+	url={},
+	abstract={}
+}
+
+@incollection{,
+	title = {},
+	editor = {},
+	booktitle = {},
+	publisher = {},
+	edition = {},
+	address = {},
+	pages = {},
+	year = {},
+	isbn = {},
+	doi = {},
+	url = {},
+	author = {},
+	keywords = {}
+}
+
+@incollection{,
+	title = {},
+	author = {},
+	year = {1989},
+	journal = {Trudy Mat. Inst. Steklov.},
+	volume = {},
+	pages = {},
+	booktitle = {},
+	bookinfo = {},
+	series = {},
+	publisher = {},
+	address = {},
+	note = {},
+	notes = {},
+	doi = {},
+	url = {}
+}
