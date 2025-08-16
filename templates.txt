@@ -59,6 +59,31 @@
 	volume = {}
 }
 
+% arXiv
+@misc{DKR24arxiv,
+	title={},
+	author={},
+	year={},
+	eprint={},
+	archivePrefix={},
+	primaryClass={},
+	url={},
+	doi = {},
+	note = {}
+}
+% Dobush O.A., Kozlovskii M.P., Romanik R.V.
+@misc{DKR24arxiv,
+	title={Supercritical crossover lines in the cell fluid model},
+	author={Dobush, O. A. and Kozlovskii, M. P. and Romanik, R. V.},
+	year={2024},
+	eprint={arXiv:2410.23694},
+	archivePrefix={arXiv},
+	primaryClass={cond-mat.stat-mech},
+	url={https://arxiv.org/abs/2410.23694},
+	doi = {10.48550/arXiv.2410.23694},
+	note = {arXiv:2410.23694}
+}
+
 @InProceedings{,
 	author={},
 	editor={},
